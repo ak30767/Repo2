@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A6B8-387D
+
+ Directory of C:\Users\Elliot\Desktop\MyProject
+
+07/21/2022  09:47 PM    <DIR>          .
+07/21/2022  09:42 PM    <DIR>          ..
+07/21/2022  09:47 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  88,417,202,176 bytes free
